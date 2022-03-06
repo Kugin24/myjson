@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../build/lib/libJSONTEST.a  CMakeFiles/libleptjson.dir/leptjson.c.o
+/usr/bin/ranlib ../build/lib/libJSONTEST.a

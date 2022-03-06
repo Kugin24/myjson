@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/JSONTEST.dir/test.c.o  -o ../build/bin/JSONTEST ../build/lib/libJSONTEST.a 
